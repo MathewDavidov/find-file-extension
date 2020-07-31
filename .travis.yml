@@ -4,4 +4,4 @@ node_js:
 before_install:
   - "npm i -g npm@^6"
 install:
-  npm install
+  - npm install
