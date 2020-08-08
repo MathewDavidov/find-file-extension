@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const { expect } = require("chai");
 
-const searchFiles = require("../src/searchFiles");
+const searchFiles = require("../index");
 const directoryPath = path.join(__dirname, "temp");
 
 /**
