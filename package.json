@@ -7,6 +7,10 @@
     "test": "mocha",
     "lint": "eslint . --ext .js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MathewDavidov/find-file-extension.git"
+  },
   "author": "Mathew Davidov",
   "license": "MIT",
   "devDependencies": {
