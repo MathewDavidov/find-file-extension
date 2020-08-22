@@ -3,6 +3,7 @@ const path = require("path");
 const { expect } = require("chai");
 
 const searchFiles = require("../index");
+
 const directoryPath = path.join(__dirname, "temp");
 
 /**
